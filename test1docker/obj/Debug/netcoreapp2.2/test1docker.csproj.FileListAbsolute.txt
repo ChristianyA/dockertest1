@@ -1,0 +1,14 @@
+C:\CCEST\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.csproj.CoreCompileInputs.cache
+C:\CCEST\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.AssemblyInfoInputs.cache
+C:\CCEST\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.AssemblyInfo.cs
+C:\ccest\test1docker\test1docker\bin\Debug\netcoreapp2.2\test1docker.deps.json
+C:\ccest\test1docker\test1docker\bin\Debug\netcoreapp2.2\test1docker.runtimeconfig.json
+C:\ccest\test1docker\test1docker\bin\Debug\netcoreapp2.2\test1docker.runtimeconfig.dev.json
+C:\ccest\test1docker\test1docker\bin\Debug\netcoreapp2.2\test1docker.dll
+C:\ccest\test1docker\test1docker\bin\Debug\netcoreapp2.2\test1docker.pdb
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.csprojAssemblyReference.cache
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.RazorAssemblyInfo.cache
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.RazorAssemblyInfo.cs
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.RazorTargetAssemblyInfo.cache
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.dll
+C:\ccest\test1docker\test1docker\obj\Debug\netcoreapp2.2\test1docker.pdb
